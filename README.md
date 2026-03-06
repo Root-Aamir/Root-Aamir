@@ -12,6 +12,17 @@ I build secure web applications and automated trading systems.
 - **Languages:** PHP, Python, JavaScript, MQL5.
 - **Frameworks:** Laravel, Vue.js, Next.js, TailwindCSS.
 - **Tools:** Kali Linux, MetaTrader 5, Git.
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir-Akram&show_icons=true&theme=dark)
+### 📡 LIVE DATA STREAMS (Matrix Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamir-Akram&show_icons=true&theme=tokyonight&hide_border=true" alt="Aamir Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Akram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+### ⚡ HACKER'S ARSENAL (Tech Stack)
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
