@@ -12,5 +12,6 @@ I build secure web applications and automated trading systems.
 - **Languages:** PHP, Python, JavaScript, MQL5.
 - **Frameworks:** Laravel, Vue.js, Next.js, TailwindCSS.
 - **Tools:** Kali Linux, MetaTrader 5, Git.
- ![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir-Akram&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Akram&layout=compact&theme=tokyonight)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir-Akram&show_icons=true&theme=dark)
