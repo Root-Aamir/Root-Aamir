@@ -1,17 +1,3 @@
-# Hi, I'm Aamir Akram 👋
-**Full Stack Developer | Security Researcher | Algorithmic Trader**
-
-I build secure web applications and automated trading systems.
-
-- 🔭 Currently working on: **Web Security Scanner** and **Trading Bots**.
-- 🌱 Learning: Advanced Cybersecurity and Market Analysis.
-- 💬 Ask me about: **Laravel, Python, MQL5, and Web Security**.
-- ⚡ Fun fact: I manage my dev environment on **Linux** for better automation.
-
-### 🛠 Tech Stack
-- **Languages:** PHP, Python, JavaScript, MQL5.
-- **Frameworks:** Laravel, Vue.js, Next.js, TailwindCSS.
-- **Tools:** Kali Linux, MetaTrader 5, Git.
 # AAMIR AKRAM | THE CYBER ARCHITECT 🛡️
 
 **Full Stack Developer | Security Researcher | Algorithmic Trader**
@@ -52,6 +38,16 @@ I design secure corporate-standard code and automated trading systems.
 
 ---
 
+### 📟 ESTABLISH SECURE CONNECTION
+
+* **📧 Email:** aamirakram252003@gmail.com
+* **🌐 Portfolio:** [skycodelab.in](https://skycodelab.in)
+* **🤝 Open for:** Penetration Testing, Security Audits, and Scalable Web Engineering.
+
+---
+<p align="center">
+  <i>Artifacts recovered from the digital abyss.</i>
+</p>
 ### 📟 ESTABLISH SECURE CONNECTION
 
 * **📧 Email:** aamirakram252003@gmail.com
