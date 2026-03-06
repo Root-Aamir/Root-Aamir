@@ -30,11 +30,8 @@ I design secure corporate-standard code and automated trading systems.
 
 ### 📡 LIVE DATA STREAMS (Matrix Stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aamir-Akram&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Akram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Stats](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-Calculated-blue?style=for-the-badge&logo=git)
 
 ---
 
