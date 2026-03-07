@@ -44,3 +44,4 @@ I design secure corporate-standard code and automated trading systems.
 <p align="center">
   <i>Artifacts recovered from the digital abyss.</i>
 </p>
+Learning GitHub Achievements.
