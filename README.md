@@ -43,5 +43,5 @@ I am a software engineer based in Roorkee, India, passionate about building secu
 
 ### 🔗 Let's Connect!
 * 🌐 **Portfolio:** [root-aamir.vercel.app](https://root-aamir.vercel.app)
-* 🎥 **YouTube:** [Darkvisit](https://www.youtube.com/@Darkvisit) *(Exploring Cyber & Tech)*
+* 🎥 **YouTube:** [RootAamir](https://www.youtube.com/@RootAamir) *(Exploring Cyber & Tech)*
 * 📍 **Location:** Roorkee, Uttarakhand, India
