@@ -55,8 +55,7 @@ I am a Full-Stack Developer based in Roorkee, India, specializing in enterprise-
 ### 🔗 Get In Touch
 
 * 🌐 **Portfolio:** [root-aamir.vercel.app](https://root-aamir.github.io/root-aamir.vercel.app/)
-* 💼 **Freelance:** [Fiverr Profile](https://www.fiverr.com/aamir_akram)
-* 🎥 **YouTube:** [Darkvisit](https://www.youtube.com/@RootAamir) *(Cybersecurity & Tech)*
+* 🎥 **YouTube:** [RootAamir](https://www.youtube.com/@RootAamir) *(Cybersecurity & Tech)*
 * 📍 **Location:** Roorkee, Uttarakhand, India
 
 ---
