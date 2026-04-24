@@ -60,13 +60,13 @@ Aspiring **Software Engineer** specializing in full-stack architectures and high
 
 ### 🤝 **Encrypted Connections**
 <p align="left">
-  <a href="https://linkedin.com/in/Root-Aamir" target="_blank">
+  <a href="https://www.linkedin.com/in/aamirakram-software-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/darkvisit" target="_blank">
+  <a href="https://www.instagram.com/rootaamir?igsh=Yms2MTZjNjB3ZXMy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="aamirakram252003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
