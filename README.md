@@ -1,70 +1,52 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atharao/atharao/master/assets/banner.gif" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aamir+Akram;Full-Stack+Developer;Algorithmic+Trader+(MQL5);Cybersecurity+Enthusiast" alt="Typing SVG" />
 
-  <br />
-
-  <h1>👋 Hi, I'm Aamir Akram</h1>
-  <h3>A Passionate Full-Stack Developer & Algorithmic Trader from India 🇮🇳</h3>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Root-Aamir&label=Profile%20views&color=0e75b6&style=flat" alt="Root-Aamir" />
-  </p>
+  <img src="https://raw.githubusercontent.com/Root-Aamir/Root-Aamir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<hr />
+---
 
+### 💫 About Me
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <br />
-        <ul>
-          <li>🌱 <b>Learning:</b> Next.js, C++ & Advanced MQL5</li>
-          <li>💬 <b>Ask me about:</b> Web Dev, Trading Bots, & Security</li>
-          <li>🔭 <b>Working on:</b> <a href="https://github.com/XauCore">XauCore Organization</a></li>
-          <li>⚡ <b>Fun Fact:</b> I trade Gold (XAUUSD) while coding!</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=radical&hide_border=false" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=radical&hide_border=false" />
 </div>
 
+- 🔭 I’m currently building **[XauCore](https://github.com/XauCore)**
+- 💻 Specialized in **Laravel, Next.js & MQL5**
+- 🛡️ Passionate about **Web Security & Pentesting**
+- 📈 Trading **XAUUSD** with Custom Scalping Bots
+- 🎓 Pursuing **BCA** (Bachelor of Computer Applications)
+
+<br/>
+
 ---
 
-### 🛡️ Tech Stack & Skills
-**Development & Design:**
+### 🛠 My Tech Arsenal
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
-**Trading & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL5-00549E?style=for-the-badge&logo=meta-quotes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel,php,mysql,py,cpp,linux,kali,powershell,vscode,docker,git" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Root-Aamir&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Root-Aamir&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+### 🌐 Let's Build Something Together
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/darkvisit"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/darkvisit"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
