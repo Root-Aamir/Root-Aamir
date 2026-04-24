@@ -1,64 +1,83 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atharao/atharao/main/header.png" width="100%" alt="Aamir Akram Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=001524&height=200&section=header&text=AAMIR%20AKRAM&fontSize=80&fontAlignY=40&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Algo-Trader%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Aamir Akram Banner" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Aamir+Akram!;&center=true&size=25&color=00D9FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+System...;Building+Scalable+Solutions...;Trading+the+Global+Markets...;Securing+the+Digital+Frontier...&center=true&size=22&color=00D9FF&width=500">
   </a>
 </h1>
-<h3 align="center">A passionate Full-Stack Developer & Algorithmic Trader from India</h3>
 
-<img align="right" alt="Coder GIF" height=260 width=360 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br />
+
+<img align="right" alt="Cyber Coding GIF" height=250 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJtcWp6ZzRyc3R6ZzRyc3R6ZzRyc3R6ZzRyc3R6ZzRyc3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をv1/3o7TKVUn7iM8FMEU24/giphy.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Root-Aamir&label=Profile%20views&color=0e75b6&style=flat" alt="Root-Aamir" /> 
+  <img src="https://komarev.com/ghpvc/?username=Root-Aamir&label=System%20Accesses&color=00d9ff&style=flat-square" alt="Root-Aamir" /> 
 </p>
 
-- 📝 Resume [**Here**](https://github.com/Root-Aamir)
-- 🔭 Working on [**XauCore Organization**](https://github.com/XauCore)
-- 🌱 I’m currently learning **Next.js & MQL5**
-- 💬 Ask me about **Full-Stack Dev & Trading Bots**
-- 🏆 Passionate about **Cybersecurity & OSINT**
+### ⚡ Terminal Log:
+- 🚀 **Mission:** Leading **[XauCore](https://github.com/XauCore)** to revolutionize HFT Trading.
+- 💻 **Stack:** Architecting with **Laravel, Next.js, & React**.
+- 📈 **Trading:** Master of **MQL5** - Specializing in Gold (XAUUSD) Scalping.
+- 🛡️ **Defense:** Actively learning **Penetration Testing & OSINT**.
+- 🎓 **Education:** Pursuing **BCA** (Class of 2029).
 
-<br/><br/>
+<br/>
 
-### ⚙️ &nbsp; Tech Stack :
+---
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+### 🛡️ **Technical Arsenal** :
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MQL5" src="https://img.shields.io/badge/MQL5-00549E?style=for-the-badge&logo=meta-quotes&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-00549E?style=for-the-badge&logo=meta-quotes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<br>
+---
 
-### ⚙️ &nbsp; Connect with me :
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" alt="Email"/></a>
-  <a href="https://instagram.com/darkvisit" target="_blank"><img src="https://img.icons8.com/clouds/90/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank"><img src="https://img.icons8.com/clouds/90/4a90e2/telegram-app.png" alt="Telegram"/></a>
-</p>
-
-<br>
+### 📉 **System Metrics** :
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Root-Aamir&show_icons=true&theme=radical&layout=compact&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=tokyonight&hide_border=true" width="400" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Root-Aamir&layout=compact&theme=tokyonight&hide_border=true" width="300" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Root-Aamir&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+### 🌐 **Encrypted Connections** :
+
+<p align="center">
+  <a href="https://linkedin.com/in/Root-Aamir" target="_blank">
+    <img src="https://img.icons8.com/neon/96/linkedin.png" width="60"/>
+  </a>
+  <a href="https://instagram.com/darkvisit" target="_blank">
+    <img src="https://img.icons8.com/neon/96/instagram-new.png" width="60"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.icons8.com/neon/96/gmail.png" width="60"/>
+  </a>
+  <a href="https://github.com/XauCore" target="_blank">
+    <img src="https://img.icons8.com/neon/96/github.png" width="60"/>
+  </a>
+</p>
+
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
