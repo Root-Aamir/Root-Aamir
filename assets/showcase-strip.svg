@@ -3,10 +3,13 @@
   <rect x="25" y="35" width="350" height="260" rx="14" fill="#E11D2E"/>
   <rect x="425" y="35" width="350" height="260" rx="14" fill="#3B82F6"/>
   <rect x="825" y="35" width="350" height="260" rx="14" fill="#7C83C9"/>
-  <text x="65" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">APEXZERO</text>
-  <text x="65" y="205" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Software • Security • Automation</text>
-  <text x="465" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">REACT</text>
-  <text x="465" y="205" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Modern UI • Dashboards • Apps</text>
-  <text x="865" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">PYTHON</text>
-  <text x="865" y="205" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Automation • Security • AI</text>
+  <text x="65" y="155" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">APEXZERO</text>
+  <text x="65" y="200" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Software • Security</text>
+  <text x="65" y="228" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="15">Automation • Digital Systems</text>
+  <text x="465" y="155" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">REACT</text>
+  <text x="465" y="200" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Modern UI • Dashboards</text>
+  <text x="465" y="228" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="15">Business Websites • Apps</text>
+  <text x="865" y="155" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">PYTHON</text>
+  <text x="865" y="200" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Automation • Security</text>
+  <text x="865" y="228" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="15">AI Workflows • Trading</text>
 </svg>
