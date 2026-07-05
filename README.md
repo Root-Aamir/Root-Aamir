@@ -1,74 +1,56 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/atharao/atharao/main/header.png" width="100%" alt="Aamir Akram Banner" />
+﻿<div align="center">
 
-  <br />
+# Aamir Akram
 
-  <h1>💻 Aamir Akram</h1>
-  <p><b>Full-Stack Developer | Algorithmic Trader | Security Researcher</b></p>
+### Full Stack Developer | Cybersecurity Learner | Cloud and Trading Automation
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+XauCore;Scalping+XAUUSD;Securing+the+Web" alt="Typing SVG" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=green) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-  <br />
+[Portfolio](https://root-aamir.github.io/root-aamir.vercel.app/) | [GitHub](https://github.com/Root-Aamir)
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Root-Aamir&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Views" />
-  </p>
 </div>
 
 ---
 
-### 👔 **Professional Summary**
-Aspiring **Software Engineer** specializing in full-stack architectures and high-frequency trading systems. I focus on writing clean, efficient, and secure code.
+## About Me
 
-- 🔭 **Lead Developer:** Building the future of HFT at **[XauCore](https://github.com/XauCore)**.
-- 💻 **Main Stack:** Expert in **Laravel, Next.js, and React**.
-- 📈 **Algo-Trading:** Developing custom Expert Advisors (EAs) for Gold using **MQL5**.
-- 🛡️ **Cybersecurity:** Actively researching OSINT and Web Security vulnerabilities.
+I build modern web applications, cybersecurity tools, cloud projects and automation systems. My main focus is creating clean, practical and useful software with React, Python and cloud technologies.
+
+## Focus Areas
+
+- Full Stack Development
+- Cybersecurity Tools
+- Python Automation
+- Cloud Deployment
+- Trading Automation Systems
+- Open Source Learning
+
+## Featured Projects
+
+- AI Vulnerability Scanner - AI powered ethical web security scanner
+- Git OSINT Scanner - GitHub OSINT and repository analysis tool
+- AWS Portfolio - React and Vite portfolio deployed with AWS Amplify
+- XAUCore Backend - Python backend API for trading automation workflows
+- XAUCore Privacy - Privacy policy page for XAUCore platform
+
+## Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| Frontend | React, Vite, JavaScript, HTML, CSS |
+| Backend | Python, Flask, APIs |
+| Security | OSINT, Web Security, Vulnerability Scanning |
+| Cloud | AWS Amplify, GitHub Pages |
+| Tools | Git, GitHub, VS Code, PowerShell |
+
+## Current Goal
+
+Building a professional developer portfolio with strong real-world projects in web development, cybersecurity and automation.
+
+## Contact
+
+GitHub: https://github.com/Root-Aamir
 
 ---
 
-### ⚙️ **Tech Arsenal**
-
-**Web & Software Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</p>
-
-**Trading & Security Systems:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL5-00549E?style=flat-square&logo=meta-quotes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 **Performance Analytics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-### 🤝 **Encrypted Connections**
-<p align="left">
-  <a href="https://www.linkedin.com/in/aamirakram-software-engineer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rootaamir?igsh=Yms2MTZjNjB3ZXMy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<br />
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+If you like my work, feel free to follow and explore my repositories.
