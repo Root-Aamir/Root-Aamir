@@ -1,0 +1,18 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="360" rx="26" fill="#020617"/>
+  <rect x="25" y="25" width="430" height="310" rx="20" fill="#DC2626"/>
+  <text x="70" y="100" fill="white" font-family="Segoe UI, Arial" font-size="30" font-weight="900">APEXZERO</text>
+  <text x="70" y="155" fill="white" font-family="Segoe UI, Arial" font-size="54" font-weight="900">Web</text>
+  <text x="70" y="205" fill="#FDE68A" font-family="Segoe UI, Arial" font-size="26" font-weight="700">React • Vite • Frontend UI</text>
+  <text x="70" y="255" fill="#F3F4F6" font-family="Segoe UI, Arial" font-size="18" font-weight="500">Modern interfaces, premium design systems, and clean user experiences.</text>
+  <rect x="485" y="25" width="430" height="310" rx="20" fill="#0284C7"/>
+  <text x="530" y="100" fill="white" font-family="Segoe UI, Arial" font-size="30" font-weight="900">SECURITY</text>
+  <text x="530" y="155" fill="white" font-family="Segoe UI, Arial" font-size="54" font-weight="900">OSINT</text>
+  <text x="530" y="205" fill="#E0F2FE" font-family="Segoe UI, Arial" font-size="26" font-weight="700">Python • Scanners • Analysis</text>
+  <text x="530" y="255" fill="#F3F4F6" font-family="Segoe UI, Arial" font-size="18" font-weight="500">Tools for ethical security learning, repository analysis, and automation.</text>
+  <rect x="945" y="25" width="430" height="310" rx="20" fill="#6366F1"/>
+  <text x="990" y="100" fill="white" font-family="Segoe UI, Arial" font-size="30" font-weight="900">CLOUD</text>
+  <text x="990" y="155" fill="white" font-family="Segoe UI, Arial" font-size="54" font-weight="900">Deploy</text>
+  <text x="990" y="205" fill="#EDE9FE" font-family="Segoe UI, Arial" font-size="26" font-weight="700">AWS Amplify • GitHub Pages</text>
+  <text x="990" y="255" fill="#F3F4F6" font-family="Segoe UI, Arial" font-size="18" font-weight="500">Deployment-focused portfolio work with reliable hosting and clean presentation.</text>
+</svg>
