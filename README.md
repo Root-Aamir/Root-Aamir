@@ -17,7 +17,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <li><a href="https://github.com/Root-Aamir/apexzero">ApexZero</a> — software, cybersecurity, automation, and digital product brand</li>
   <li><a href="https://github.com/Root-Aamir/ai-vulnerability-scanner">AI Vulnerability Scanner</a> — AI-assisted security scanning concept</li>
   <li><a href="https://github.com/Root-Aamir/omni-sentinel">Omni Sentinel</a> — security-focused project direction</li>
-  <li><a href="https://github.com/Root-Aamir/xau-rwa-dashboard">XAU RWA Dashboard</a> — trading and dashboard related work</li>
+  <li><a href="https://github.com/Root-Aamir/aamir-aws-portfolio">aamir-aws-portfolio</a> — aamir-aws-portfolio</li>
   <li><a href="https://github.com/Root-Aamir/web-security-scanner">Web Security Scanner</a> — web security tooling</li>
   <li><a href="https://github.com/Root-Aamir/subdomain-finder">Subdomain Finder</a> — reconnaissance and discovery tool</li>
 </ul>
@@ -55,7 +55,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <ul>
   <li>GitHub: <a href="https://github.com/Root-Aamir">github.com/Root-Aamir</a></li>
   <li>Repositories: <a href="https://github.com/Root-Aamir?tab=repositories">View all repositories</a></li>
-  <li>ApexZero: <a href="https://github.com/Root-Aamir/apexzero">ApexZero repository</a></li>
+  <li>ApexZero: <a href="https://apexzero.tech/">ApexZero repository</a></li>
 </ul>
 <br/>
 <p align="center">
