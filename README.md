@@ -1,114 +1,128 @@
-﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Aamir%20Akram&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20AI%20Builder&descSize=15&descAlignY=60" />
+<p align="center">
+  <img src="./assets/apexzero-hero.svg" width="100%" alt="Aamir Akram - Founder and CEO at ApexZero" />
 </p>
-
-# Aamir Akram
-
-### Founder & CEO at ApexZero
-### Full-Stack Developer | Cybersecurity Researcher | AI Automation Builder
-
-I build secure, scalable, and premium digital products using modern web technologies, cybersecurity knowledge, AI automation, and product-focused execution.
-
+<h1 align="center">Aamir Akram</h1>
+<p align="center">
+  <b>Founder & CEO at ApexZero</b><br/>
+  Full-Stack Developer • Cybersecurity Researcher • AI Automation Builder • Trading Technology Developer
+</p>
+<p align="center">
+  <a href="https://github.com/Root-Aamir">
+    <img src="https://img.shields.io/badge/GitHub-Root--Aamir-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Brand-ApexZero-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Security%20First-2563eb?style=for-the-badge" />
+</p>
 ---
-
 ## Executive Profile
-
-I am a software builder and founder focused on creating professional technology products for businesses, creators, and digital-first brands.
-
-Currently, I am building **ApexZero** as a technology brand focused on software, cybersecurity, trading automation, and scalable online systems.
-
+I build secure, scalable, and business-focused digital products using modern web technologies, cybersecurity knowledge, AI automation, and trading technology.
+Currently, I am building **ApexZero** as a premium technology brand focused on software products, cybersecurity systems, AI-powered automation, trading technology, and scalable digital platforms.
 ---
-
-## Core Expertise
-
-| Area | Focus |
-|---|---|
-| Full-Stack Development | React, Next.js, Node.js, Laravel, APIs, dashboards |
-| Cybersecurity | Web security, OSINT, vulnerability scanning, security research |
-| AI Automation | AI tools, workflow automation, smart systems |
-| Trading Technology | Python, MQL5, MetaTrader 5 bots, gold trading systems |
-| Digital Business | SaaS platforms, ecommerce, affiliate systems, premium UI |
-
+## Premium Technology Focus
+<table>
+<tr>
+<td width="50%" valign="top">
+### Software Engineering
+- Full-stack web platforms
+- Business dashboards
+- Ecommerce systems
+- SaaS-style products
+- API-based applications
+</td>
+<td width="50%" valign="top">
+### Cybersecurity
+- Web security research
+- Vulnerability scanning tools
+- OSINT workflows
+- Linux security tools
+- Security-first product design
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### AI Automation
+- Python automation
+- AI-assisted workflows
+- Smart dashboards
+- Productivity systems
+- Business automation tools
+</td>
+<td width="50%" valign="top">
+### Trading Technology
+- MetaTrader 5 automation
+- Python trading systems
+- MQL5 bots
+- Gold trading tools
+- Risk management systems
+</td>
+</tr>
+</table>
 ---
-
 ## Technology Stack
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github" />
+</p>
 ---
-
 ## Featured Work
-
+<table>
+<tr>
+<td width="50%" valign="top">
 ### ApexZero
-A professional technology brand focused on cybersecurity, software products, trading technology, and digital business systems.
-
+A premium technology brand focused on cybersecurity, software products, trading automation, and digital business systems.
+</td>
+<td width="50%" valign="top">
 ### AI Security Tools
-Security-focused tools and automation systems for scanning, analyzing, and improving web application security.
-
+Security-focused tools for scanning, analyzing, and improving web application security.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 ### Trading Automation
 Python and MQL5-based automation systems for MetaTrader 5 with focus on execution, risk control, and gold trading strategies.
-
+</td>
+<td width="50%" valign="top">
 ### Premium Web Platforms
-Modern business websites, dashboards, ecommerce-style systems, and landing pages using React, Tailwind CSS, APIs, and backend services.
-
+Modern websites, dashboards, ecommerce systems, landing pages, and business platforms built with clean UI and scalable architecture.
+</td>
+</tr>
+</table>
 ---
-
-## Leadership Philosophy
-
+## Founder Operating System
 > Build with clarity. Ship with discipline. Scale with security.
-
-Technology leadership is not only about writing code. It is about understanding the problem, designing the right system, and creating products people can trust.
-
-- Think like a founder
-- Build like an engineer
-- Protect like a security researcher
-- Improve like a lifelong learner
-
+<table>
+<tr>
+<td align="center" width="25%"><b>Think</b><br/>Like a founder</td>
+<td align="center" width="25%"><b>Build</b><br/>Like an engineer</td>
+<td align="center" width="25%"><b>Protect</b><br/>Like a security researcher</td>
+<td align="center" width="25%"><b>Improve</b><br/>Every day</td>
+</tr>
+</table>
 ---
-
-## GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## Current Mission
-
-My mission is to build production-ready projects across AI automation, cybersecurity tooling, trading technology, full-stack web platforms, and digital business systems.
-
+My mission is to build production-ready projects across **AI automation, cybersecurity tooling, trading technology, full-stack web platforms, and digital business systems**.
 Long-term, I am working to grow **ApexZero** into a trusted technology brand that creates secure, premium, and scalable software products.
-
 ---
-
 ## Connect
-
-Open to freelance projects, collaborations, open-source work, product building, and remote software opportunities.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Root--Aamir-111827?style=for-the-badge&logo=github)](https://github.com/Root-Aamir)
-
----
-
 <p align="center">
-  <strong>Founder Mindset. Engineer Discipline. Security First.</strong>
+  Open to freelance projects, collaborations, open-source work, product building, and remote software opportunities.
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" />
+  <a href="https://github.com/Root-Aamir">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-Root--Aamir-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+---
+<p align="center">
+  <b>Founder Mindset. Engineer Discipline. Security First.</b>
 </p>
