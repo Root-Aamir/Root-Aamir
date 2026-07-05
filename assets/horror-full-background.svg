@@ -1,0 +1,150 @@
+<svg width="1000" height="1900" viewBox="0 0 1000 1900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="1900">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="35%" stop-color="#0b0608"/>
+      <stop offset="70%" stop-color="#12070b"/>
+      <stop offset="100%" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="blood" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%" stop-color="#ff2a2a"/>
+      <stop offset="50%" stop-color="#b11226"/>
+      <stop offset="100%" stop-color="#6b0f1a"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d9d9d9" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#d9d9d9" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#d9d9d9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="redFog" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff2a2a" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ff2a2a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowRed" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#d61f3a" flood-opacity="0.75"/>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.60"/>
+    </filter>
+    <pattern id="noise" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="12" r="1" fill="#ffffff" opacity="0.03"/>
+      <circle cx="24" cy="34" r="1" fill="#ffffff" opacity="0.02"/>
+      <circle cx="45" cy="18" r="1" fill="#ffffff" opacity="0.03"/>
+      <circle cx="52" cy="49" r="1" fill="#ffffff" opacity="0.02"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="1900" fill="url(#bg)"/>
+  <rect width="1000" height="1900" fill="url(#noise)"/>
+  <circle cx="820" cy="165" r="150" fill="url(#moonGlow)"/>
+  <circle cx="760" cy="260" r="220" fill="url(#redFog)"/>
+  <circle cx="180" cy="1420" r="260" fill="url(#redFog)" opacity="0.55"/>
+  <circle cx="880" cy="1680" r="240" fill="url(#redFog)" opacity="0.45"/>
+  <path d="M0 250 C180 220 290 310 470 270 C620 235 730 160 1000 175" stroke="#2f0a12" stroke-width="90" opacity="0.35"/>
+  <path d="M0 350 C140 320 300 390 460 365 C650 335 770 250 1000 275" stroke="#1a0508" stroke-width="110" opacity="0.42"/>
+  <path d="M0 520 C160 470 280 560 430 530 C620 492 780 430 1000 460" stroke="#2b0b12" stroke-width="70" opacity="0.25"/>
+  <path d="M0 1180 C180 1140 330 1210 500 1185 C690 1150 830 1105 1000 1125" stroke="#24080f" stroke-width="80" opacity="0.25"/>
+  <path d="M0 1650 L80 1590 L130 1620 L190 1550 L250 1600 L320 1500 L390 1560 L470 1480 L540 1530 L610 1450 L690 1510 L780 1420 L860 1490 L940 1410 L1000 1450 L1000 1900 L0 1900 Z" fill="#050505"/>
+  <path d="M0 1725 L60 1700 L110 1735 L170 1670 L230 1720 L290 1640 L350 1715 L430 1630 L510 1695 L590 1600 L670 1675 L760 1580 L850 1665 L930 1590 L1000 1640 L1000 1900 L0 1900 Z" fill="#0a0a0a"/>
+  <path d="M792 82 C802 75 815 76 825 87 C816 88 808 92 800 98 C796 94 793 88 792 82 Z" fill="#0f0f0f"/>
+  <path d="M846 122 C857 114 870 116 879 127 C870 128 861 133 853 140 C849 136 846 130 846 122 Z" fill="#111111"/>
+  <path d="M724 196 C735 188 747 190 757 200 C747 201 739 206 731 212 C727 209 725 203 724 196 Z" fill="#111111"/>
+  <text x="80" y="110" fill="#8d1b2a" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="800" letter-spacing="5">
+    SHADOW PROTOCOL // APEXZERO // FEAR DRIVEN DESIGN
+  </text>
+  <text x="78" y="230" fill="#f5f5f5" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="900" filter="url(#glowRed)">
+    Aamir Akram
+  </text>
+  <text x="82" y="282" fill="#ffb4b4" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">
+    Founder &amp; CEO at ApexZero
+  </text>
+  <text x="82" y="322" fill="#d1d5db" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    Full-Stack Developer • Cybersecurity Learner • AI Automation Builder
+  </text>
+  <path d="M80 350 H920" stroke="url(#blood)" stroke-width="3" opacity="0.8"/>
+  <text x="82" y="412" fill="#ff5c70" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="900">
+    ABOUT
+  </text>
+  <text x="82" y="460" fill="#f3f4f6" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
+    I build secure, scalable, and premium digital products in the dark blend of
+  </text>
+  <text x="82" y="494" fill="#f3f4f6" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
+    modern web technologies, cybersecurity, AI automation, and trading systems.
+  </text>
+  <text x="82" y="540" fill="#9ca3af" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    ApexZero is my technology brand — built for software, security, automation, and digital power.
+  </text>
+  <text x="82" y="640" fill="#ff5c70" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="900">
+    DOMAINS OF POWER
+  </text>
+  <text x="85" y="698" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    01  Full-Stack Development
+  </text>
+  <text x="85" y="730" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    React, Next.js, dashboards, business websites, ecommerce systems, APIs.
+  </text>
+  <text x="85" y="790" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    02  Cybersecurity
+  </text>
+  <text x="85" y="822" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Web security, OSINT, Linux tools, scanners, learning, research, and analysis.
+  </text>
+  <text x="85" y="882" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    03  AI Automation
+  </text>
+  <text x="85" y="914" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Python automation, AI-assisted workflows, dashboards, smart productivity tools.
+  </text>
+  <text x="85" y="974" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    04  Trading Technology
+  </text>
+  <text x="85" y="1006" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    MetaTrader 5 tools, Python systems, MQL5 bots, gold trading, risk management.
+  </text>
+  <path d="M80 1060 H920" stroke="url(#blood)" stroke-width="2" opacity="0.75"/>
+  <text x="82" y="1135" fill="#ff5c70" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="900">
+    TECHNOLOGY STACK
+  </text>
+  <text x="85" y="1195" fill="#ffb4b4" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">
+    Frontend
+  </text>
+  <text x="240" y="1195" fill="#f3f4f6" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    React • Next.js • JavaScript • Tailwind CSS
+  </text>
+  <text x="85" y="1245" fill="#ffb4b4" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">
+    Backend
+  </text>
+  <text x="240" y="1245" fill="#f3f4f6" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    Node.js • Laravel • Python • MySQL • MongoDB
+  </text>
+  <text x="85" y="1295" fill="#ffb4b4" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">
+    Tools
+  </text>
+  <text x="240" y="1295" fill="#f3f4f6" font-family="Segoe UI, Arial, sans-serif" font-size="21">
+    Git • GitHub • Linux • VS Code • MQL5 • MetaTrader 5
+  </text>
+  <text x="82" y="1395" fill="#ff5c70" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="900">
+    FEATURED DIRECTION
+  </text>
+  <text x="85" y="1455" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    ApexZero
+  </text>
+  <text x="85" y="1487" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Technology brand for software products, cybersecurity, automation, and business systems.
+  </text>
+  <text x="85" y="1547" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    Premium Web Platforms
+  </text>
+  <text x="85" y="1579" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    Dark, premium, modern websites, landing pages, dashboards, and digital experiences.
+  </text>
+  <path d="M80 1640 H920" stroke="url(#blood)" stroke-width="2" opacity="0.7"/>
+  <text x="82" y="1715" fill="#ff5c70" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="900">
+    PHILOSOPHY
+  </text>
+  <text x="82" y="1770" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" filter="url(#glowRed)">
+    Build with clarity. Ship with discipline. Scale with security.
+  </text>
+  <text x="500" y="1845" fill="#ffb4b4" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="800" letter-spacing="3">
+    FOUNDER MINDSET // ENGINEER DISCIPLINE // SECURITY FIRST
+  </text>
+</svg>
