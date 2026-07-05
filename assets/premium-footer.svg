@@ -1,0 +1,18 @@
+<svg width="1400" height="250" viewBox="0 0 1400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="250">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1400" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="250" rx="34" fill="url(#bg)"/>
+  <path d="M0 185 C300 105 500 245 760 150 C1010 60 1170 120 1400 45" stroke="url(#line)" stroke-width="4" opacity="0.7"/>
+  <text x="700" y="95" fill="#ffffff" text-anchor="middle" font-family="Segoe UI, Arial" font-size="38" font-weight="900">Founder Mindset. Engineer Discipline. Security First.</text>
+  <text x="700" y="145" fill="#cbd5e1" text-anchor="middle" font-family="Segoe UI, Arial" font-size="24">Open to freelance projects, collaborations, open-source work, and remote software opportunities.</text>
+</svg>
