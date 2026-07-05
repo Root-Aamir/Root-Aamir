@@ -53,7 +53,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <br/>
 <h2>Links</h2>
 <ul>
-  <li>X.com: <a href="https://x.com/RootAamir"x.com/RootAamir</a></li>
+  <li>X.com:<a href="https://x.com/RootAamir"x.com/RootAamir</a></li>
   <li>Repositories: <a href="https://github.com/Root-Aamir?tab=repositories">View all repositories</a></li>
   <li>ApexZero: <a href="https://apexzero.tech/">ApexZero</a></li>
 </ul>
