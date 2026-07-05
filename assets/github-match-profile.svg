@@ -1,0 +1,108 @@
+<svg width="1000" height="1800" viewBox="0 0 1000 1800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="1800">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="1800" rx="28" fill="url(#bg)"/>
+  <circle cx="90" cy="100" r="240" fill="url(#glow1)"/>
+  <circle cx="910" cy="360" r="260" fill="url(#glow2)"/>
+  <circle cx="120" cy="1450" r="220" fill="url(#glow1)" opacity="0.55"/>
+  <circle cx="880" cy="1600" r="250" fill="url(#glow2)" opacity="0.55"/>
+  <rect x="35" y="35" width="930" height="1730" rx="26" fill="#0d1117" stroke="#30363d"/>
+  <rect x="70" y="70" width="860" height="315" rx="24" fill="#161b22" stroke="#30363d" filter="url(#shadow)"/>
+  <rect x="70" y="70" width="860" height="6" rx="3" fill="url(#accent)"/>
+  <text x="105" y="130" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">
+    ROOT-AAMIR • APEXZERO • SOFTWARE BUILDER
+  </text>
+  <text x="105" y="205" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="900">
+    Aamir Akram
+  </text>
+  <text x="108" y="252" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">
+    Founder &amp; CEO at ApexZero
+  </text>
+  <text x="108" y="290" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">
+    Full-Stack Developer • Cybersecurity Learner • React • Python • Cloud &amp; Trading Automation
+  </text>
+  <rect x="105" y="322" width="110" height="34" rx="17" fill="#0d1117" stroke="#58a6ff"/>
+  <text x="138" y="344" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="13" font-weight="800">React</text>
+  <rect x="230" y="322" width="115" height="34" rx="17" fill="#0d1117" stroke="#58a6ff"/>
+  <text x="260" y="344" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="13" font-weight="800">Python</text>
+  <rect x="360" y="322" width="145" height="34" rx="17" fill="#0d1117" stroke="#58a6ff"/>
+  <text x="392" y="344" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="13" font-weight="800">Security</text>
+  <rect x="520" y="322" width="125" height="34" rx="17" fill="#0d1117" stroke="#58a6ff"/>
+  <text x="560" y="344" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="13" font-weight="800">Cloud</text>
+  <rect x="660" y="322" width="175" height="34" rx="17" fill="#0d1117" stroke="#58a6ff"/>
+  <text x="700" y="344" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="13" font-weight="800">Automation</text>
+  <rect x="70" y="430" width="860" height="190" rx="22" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="495" fill="#f0f6fc" font-family="Segoe UI, Arial" font-size="36" font-weight="900">Profile Summary</text>
+  <text x="105" y="545" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="20" font-weight="600">
+    I build clean, secure, and business-focused digital products.
+  </text>
+  <text x="105" y="578" fill="#8b949e" font-family="Segoe UI, Arial" font-size="17">
+    My work connects full-stack development, cybersecurity learning,
+  </text>
+  <text x="105" y="606" fill="#8b949e" font-family="Segoe UI, Arial" font-size="17">
+    AI automation, cloud tools, and trading technology under ApexZero.
+  </text>
+  <text x="70" y="705" fill="#f0f6fc" font-family="Segoe UI, Arial" font-size="38" font-weight="900">Core Focus</text>
+  <rect x="70" y="745" width="410" height="135" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="795" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">Full-Stack Development</text>
+  <text x="105" y="835" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">React, Next.js, dashboards, landing pages,</text>
+  <text x="105" y="860" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">business websites, APIs and web platforms.</text>
+  <rect x="520" y="745" width="410" height="135" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="555" y="795" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">Cybersecurity</text>
+  <text x="555" y="835" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">Web security, OSINT, Linux tools, scanners,</text>
+  <text x="555" y="860" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">security research and learning projects.</text>
+  <rect x="70" y="910" width="410" height="135" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="960" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">AI Automation</text>
+  <text x="105" y="1000" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">Python automation, AI-assisted workflows,</text>
+  <text x="105" y="1025" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">smart dashboards and productivity tools.</text>
+  <rect x="520" y="910" width="410" height="135" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="555" y="960" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">Trading Automation</text>
+  <text x="555" y="1000" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">Python and MQL5 systems for MetaTrader 5,</text>
+  <text x="555" y="1025" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">gold trading tools and risk management.</text>
+  <rect x="70" y="1120" width="860" height="220" rx="22" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="1185" fill="#f0f6fc" font-family="Segoe UI, Arial" font-size="36" font-weight="900">Technology Stack</text>
+  <text x="105" y="1245" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="20" font-weight="850">Frontend</text>
+  <text x="255" y="1245" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="20">React • Next.js • JavaScript • Tailwind CSS</text>
+  <text x="105" y="1300" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="20" font-weight="850">Backend</text>
+  <text x="255" y="1300" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="20">Node.js • Laravel • Python • MySQL • MongoDB</text>
+  <text x="105" y="1355" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="20" font-weight="850">Tools</text>
+  <text x="255" y="1355" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="20">Git • GitHub • Linux • VS Code • MQL5 • MT5</text>
+  <text x="70" y="1435" fill="#f0f6fc" font-family="Segoe UI, Arial" font-size="38" font-weight="900">Featured Direction</text>
+  <rect x="70" y="1475" width="410" height="130" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="1525" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">ApexZero</text>
+  <text x="105" y="1565" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">Technology brand for software products,</text>
+  <text x="105" y="1590" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">cybersecurity and automation systems.</text>
+  <rect x="520" y="1475" width="410" height="130" rx="20" fill="#161b22" stroke="#30363d"/>
+  <text x="555" y="1525" fill="#58a6ff" font-family="Segoe UI, Arial" font-size="23" font-weight="850">Premium Web Platforms</text>
+  <text x="555" y="1565" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">Modern websites, dashboards, stores,</text>
+  <text x="555" y="1590" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="16">landing pages and business systems.</text>
+  <rect x="70" y="1650" width="860" height="105" rx="22" fill="#161b22" stroke="#30363d"/>
+  <rect x="70" y="1650" width="860" height="6" rx="3" fill="url(#accent)"/>
+  <text x="500" y="1715" fill="#f0f6fc" text-anchor="middle" font-family="Segoe UI, Arial" font-size="25" font-weight="900">
+    Build with clarity. Ship with discipline. Scale with security.
+  </text>
+  <text x="500" y="1790" fill="#8b949e" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18">
+    Open to freelance projects, collaboration, open-source work and remote opportunities.
+  </text>
+</svg>
