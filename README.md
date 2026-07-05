@@ -14,7 +14,7 @@
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
 </p>
 <ul>
-  <li><a href="https://github.com/Root-Aamir/apexzero">ApexZero</a> — software, cybersecurity, automation, and digital product brand</li>
+  <li><a href="https://apexzero.tech/">ApexZero</a> — software, cybersecurity, automation, and digital product brand</li>
   <li><a href="https://github.com/Root-Aamir/ai-vulnerability-scanner">AI Vulnerability Scanner</a> — AI-assisted security scanning concept</li>
   <li><a href="https://github.com/Root-Aamir/omni-sentinel">Omni Sentinel</a> — security-focused project direction</li>
   <li><a href="https://github.com/Root-Aamir/aamir-aws-portfolio">aamir-aws-portfolio</a> — aamir-aws-portfolio</li>
