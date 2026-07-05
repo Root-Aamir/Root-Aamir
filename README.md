@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/premium-hero.svg" width="100%" alt="Aamir Akram Premium GitHub Banner" />
+  <img src="./assets/hero.svg" width="100%" alt="Aamir Akram Hero Banner" />
 </p>
 <h1 align="center">Aamir Akram</h1>
 <h3 align="center">
@@ -13,19 +13,14 @@
   </a>
   <img src="https://img.shields.io/badge/ApexZero-Founder-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Security-First-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-Premium%20Products-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Premium-Product%20Builder-0F172A?style=for-the-badge" />
 </p>
 <p align="center">
-  I build secure, scalable, and business-focused digital products using modern web technologies, cybersecurity knowledge, AI automation, and trading technology.
+  <img src="./assets/about.svg" width="100%" alt="Executive Profile" />
 </p>
 <p align="center">
-  Currently building <b>ApexZero</b> as a premium technology brand focused on software products, cybersecurity systems, AI-powered automation, trading technology, and scalable digital platforms.
+  <img src="./assets/focus.svg" width="100%" alt="Premium Technology Focus" />
 </p>
-<br/>
-<p align="center">
-  <img src="./assets/premium-focus.svg" width="100%" alt="Premium Technology Focus" />
-</p>
-<br/>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react" />
@@ -40,22 +35,15 @@
   <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/MQL5-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-0f172a?style=for-the-badge" />
 </p>
-<br/>
-<h2 align="center">Featured Work</h2>
-<h3>ApexZero</h3>
-<p>A premium technology brand focused on cybersecurity, software products, trading automation, and digital business systems.</p>
-<h3>AI Security Tools</h3>
-<p>Security-focused tools for scanning, analyzing, and improving web application security.</p>
-<h3>Trading Automation Systems</h3>
-<p>Python and MQL5-based automation systems for MetaTrader 5 with focus on execution, risk control, and gold trading strategies.</p>
-<h3>Premium Web Platforms</h3>
-<p>Modern websites, dashboards, ecommerce systems, landing pages, and business platforms built with clean UI and scalable architecture.</p>
-<br/>
 <p align="center">
-  <img src="./assets/premium-mission.svg" width="100%" alt="Founder Operating System" />
+  <img src="./assets/projects.svg" width="100%" alt="Featured Work" />
 </p>
-<br/>
+<p align="center">
+  <img src="./assets/mission.svg" width="100%" alt="Founder Operating System" />
+</p>
 <h2 align="center">Current Mission</h2>
 <p align="center">
   My mission is to build production-ready projects across <b>AI automation, cybersecurity tooling, trading technology, full-stack web platforms, and digital business systems</b>.
@@ -63,14 +51,12 @@
 <p align="center">
   Long-term, I am working to grow <b>ApexZero</b> into a trusted technology brand that creates secure, premium, and scalable software products.
 </p>
-<br/>
 <h2 align="center">Connect</h2>
 <p align="center">
   <a href="https://github.com/Root-Aamir">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-Root--Aamir-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<br/>
 <p align="center">
-  <img src="./assets/premium-footer.svg" width="100%" alt="Founder Mindset Engineer Discipline Security First" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </p>
