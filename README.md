@@ -1,80 +1,42 @@
-﻿# Aamir Akram
-
-### Full Stack Developer | Cybersecurity Learner | Cloud & Trading Automation
-
-I build clean, practical, and professional software projects with React, Python, backend APIs, cybersecurity tools, cloud deployment, and automation workflows.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Root--Aamir-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Root-Aamir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://root-aamir.github.io/root-aamir.vercel.app/)
-
+﻿# Aamir Akram — CEO @ ApexZero
 ---
-
-## Executive Profile
-
-I am focused on building real-world projects that are useful, documented, and ready to show to clients, recruiters, and collaborators.
-
-My work combines full stack development, Python backend systems, cybersecurity learning tools, OSINT projects, cloud deployment, and trading automation systems.
-
+## EXECUTIVE SUMMARY
+> Building next-gen cybersecurity infrastructure, OSINT intelligence platforms, and cloud-native automation ecosystems. Founder of **ApexZero Security** — every line of code is an investment in digital dominance.
 ---
-
-## Core Skills
-
-- Full Stack Web Development
-- React and Vite Frontend Projects
-- Python Backend APIs
-- Cybersecurity and OSINT Tools
-- AWS Amplify and GitHub Pages Deployment
-- Trading Automation Workflows
-- Professional GitHub Portfolio Building
-
+## COMMAND CENTER — TECH STACK
+| Domain | Stack |
+|--------|-------|
+| **Frontend** | React · Vite · JavaScript |
+| **Backend** | Python · Flask · REST APIs |
+| **Cloud** | AWS Amplify · GitHub Pages |
+| **Security** | Pentesting · OSINT · Vulnerability Analysis |
+| **Automation** | Trading Bots · AI Workflows |
 ---
-
-## Tech Stack
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-111827?style=for-the-badge&logo=awsamplify&logoColor=FF9900)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=00FF88)
-
+## APEX FLEET — LIVE PROJECTS
+| Project | Description | Status |
+|---------|------------|--------|
+| **AI Vulnerability Scanner** | AI-powered ethical web security scanner | 🟢 Live |
+| **Git OSINT Scanner** | GitHub OSINT + threat intelligence | 🟢 Live |
+| **AWS Portfolio** | Cloud portfolio on AWS Amplify | 🟢 Live |
+| **XAUCore Backend** | Python backend — trading automation engine | 🔧 Active |
+| **XAUCore Privacy** | Compliance and policy infrastructure | 🟢 Live |
 ---
-
-## Featured Projects
-
-### AI Vulnerability Scanner
-AI-powered ethical web security scanner for cybersecurity learning and portfolio presentation.
-
-### Git OSINT Scanner
-GitHub OSINT tool for analyzing public repositories, developer activity, and open-source intelligence signals.
-
-### AWS Portfolio
-Modern cloud portfolio built with React and Vite, deployed using AWS Amplify.
-
-### XAUCore Backend
-Python backend API foundation for trading automation workflows and dashboard integration.
-
-### XAUCore Privacy
-Privacy policy page for the XAUCore trading automation platform.
-
+## MISSION BRIEFING — Q3 2026
+- [ ] Ship ApexZero CLI v1 (pentest automation)
+- [ ] OSINT scanner — add Telegram/Discord alerting
+- [ ] Full AWS security audit lab deployment
+- [ ] Deploy 5+ production-level React applications
+- [ ] 10x GitHub contribution graph
 ---
-
-## Current Mission
-
-- Build production-ready React and Python projects
-- Improve cybersecurity and OSINT tooling
-- Strengthen Python fundamentals and problem-solving skills
-- Deploy clean projects with proper README files, screenshots, and live demos
-- Keep GitHub profile focused, professional, and recruiter-ready
-
+## STACK BADGES
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF88)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF88)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF88)
+![AWS](https://img.shields.io/badge/AWS%20Amplify-000000?style=for-the-badge&logo=awsamplify&logoColor=00FF88)
+![Pentest](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF88)
 ---
-
-## Links
-
+## CONNECT
 - Portfolio: https://root-aamir.github.io/root-aamir.vercel.app/
 - GitHub: https://github.com/Root-Aamir
-
 ---
-
-**Clean code. Real projects. Premium execution.**
+**「 APEX ZERO — Secure. Scale. Dominate. 」**
