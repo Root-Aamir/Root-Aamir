@@ -1,0 +1,37 @@
+﻿<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+<stop stop-color="#020617"/>
+<stop offset="0.45" stop-color="#0f172a"/>
+<stop offset="1" stop-color="#1d4ed8"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+<stop stop-color="#f59e0b"/>
+<stop offset="1" stop-color="#facc15"/>
+</linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+<stop stop-color="#38bdf8"/>
+<stop offset="1" stop-color="#2563eb"/>
+</linearGradient>
+</defs>
+<rect width="1400" height="520" rx="42" fill="url(#bg)"/>
+<circle cx="1160" cy="95" r="240" fill="#2563eb" opacity="0.22"/>
+<circle cx="170" cy="420" r="260" fill="#0ea5e9" opacity="0.12"/>
+<rect x="70" y="62" width="1260" height="396" rx="34" fill="#020617" opacity="0.72" stroke="#334155" stroke-width="2"/>
+<rect x="100" y="95" width="210" height="42" rx="21" fill="#111827" stroke="#475569"/>
+<text x="126" y="122" fill="#93c5fd" font-family="Segoe UI, Arial" font-size="17" font-weight="800" letter-spacing="3">APEXZERO</text>
+<text x="100" y="210" fill="white" font-family="Segoe UI, Arial" font-size="72" font-weight="900">Aamir Akram</text>
+<text x="104" y="262" fill="#cbd5e1" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Founder Mindset | Full Stack Developer | Cybersecurity Learner</text>
+<text x="104" y="308" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="21" font-weight="500">Building premium software projects in web development, security tooling, cloud deployment, and automation.</text>
+<rect x="104" y="350" width="170" height="48" rx="24" fill="#1d4ed8"/>
+<text x="146" y="381" fill="white" font-family="Segoe UI, Arial" font-size="17" font-weight="800">REACT</text>
+<rect x="292" y="350" width="180" height="48" rx="24" fill="#111827" stroke="#475569"/>
+<text x="335" y="381" fill="white" font-family="Segoe UI, Arial" font-size="17" font-weight="800">PYTHON</text>
+<rect x="490" y="350" width="245" height="48" rx="24" fill="#111827" stroke="#475569"/>
+<text x="535" y="381" fill="white" font-family="Segoe UI, Arial" font-size="17" font-weight="800">CYBERSECURITY</text>
+<rect x="753" y="350" width="185" height="48" rx="24" fill="#111827" stroke="#475569"/>
+<text x="796" y="381" fill="white" font-family="Segoe UI, Arial" font-size="17" font-weight="800">CLOUD</text>
+<rect x="956" y="350" width="230" height="48" rx="24" fill="url(#gold)"/>
+<text x="998" y="381" fill="#020617" font-family="Segoe UI, Arial" font-size="17" font-weight="900">AUTOMATION</text>
+<rect x="104" y="427" width="560" height="6" rx="3" fill="url(#blue)"/>
+</svg>
