@@ -8,7 +8,7 @@
 <p align="center">
   Building secure web platforms, automation tools, trading systems, and digital products under <b>ApexZero</b>.
 </p>
-<hr/>
+<br/>
 <h2>What have I been up to recently?</h2>
 <p>
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
@@ -21,7 +21,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <li><a href="https://github.com/Root-Aamir/web-security-scanner">Web Security Scanner</a> — web security tooling</li>
   <li><a href="https://github.com/Root-Aamir/subdomain-finder">Subdomain Finder</a> — reconnaissance and discovery tool</li>
 </ul>
-<hr/>
+<br/>
 <h2>Tech I work with</h2>
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" />
@@ -37,12 +37,12 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
 </p>
-<hr/>
+<br/>
 <h2>GitHub Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true" width="100%" alt="Aamir Akram GitHub activity graph" />
 </p>
-<hr/>
+<br/>
 <h2>Current Focus</h2>
 <ul>
   <li>Full-stack web development with React, Next.js, Tailwind CSS and backend APIs</li>
@@ -50,19 +50,14 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <li>Python automation, AI-assisted workflows and smart dashboards</li>
   <li>Trading technology using Python, MQL5 and MetaTrader 5</li>
 </ul>
-<hr/>
-<h2>Sponsor my work</h2>
-<p>
-If you like any of my projects, please consider supporting my work by following my GitHub profile, starring useful repositories, sharing my work, or collaborating on products.
-</p>
-<hr/>
+<br/>
 <h2>Links</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/Root-Aamir">github.com/Root-Aamir</a></li>
   <li>Repositories: <a href="https://github.com/Root-Aamir?tab=repositories">View all repositories</a></li>
   <li>ApexZero: <a href="https://github.com/Root-Aamir/apexzero">ApexZero repository</a></li>
 </ul>
-<hr/>
+<br/>
 <p align="center">
   <b>Aamir Akram — Full-Stack Developer | Cybersecurity | AI Automation</b>
 </p>

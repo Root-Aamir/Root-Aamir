@@ -1,15 +1,12 @@
-<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="350" rx="18" fill="#0D1117"/>
-  <rect x="20" y="25" width="360" height="300" rx="12" fill="#E11D2E"/>
-  <rect x="420" y="25" width="360" height="300" rx="12" fill="#3B82F6"/>
-  <rect x="820" y="25" width="360" height="300" rx="12" fill="#7C83C9"/>
-  <text x="55" y="170" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">APEXZERO</text>
-  <text x="55" y="210" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Software • Security • Automation</text>
-  <text x="55" y="245" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="14">Founder-led digital product brand.</text>
-  <text x="455" y="170" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">REACT</text>
-  <text x="455" y="210" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Modern UI • Dashboards • Web Apps</text>
-  <text x="455" y="245" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Building clean and scalable interfaces.</text>
-  <text x="855" y="170" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">PYTHON</text>
-  <text x="855" y="210" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Automation • Security • AI Workflows</text>
-  <text x="855" y="245" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Tools, scripts, bots and smart systems.</text>
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="330" rx="18" fill="#0D1117"/>
+  <rect x="25" y="35" width="350" height="260" rx="14" fill="#E11D2E"/>
+  <rect x="425" y="35" width="350" height="260" rx="14" fill="#3B82F6"/>
+  <rect x="825" y="35" width="350" height="260" rx="14" fill="#7C83C9"/>
+  <text x="65" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">APEXZERO</text>
+  <text x="65" y="205" fill="#FFE4E6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Software • Security • Automation</text>
+  <text x="465" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">REACT</text>
+  <text x="465" y="205" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Modern UI • Dashboards • Apps</text>
+  <text x="865" y="160" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">PYTHON</text>
+  <text x="865" y="205" fill="#E0E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Automation • Security • AI</text>
 </svg>
