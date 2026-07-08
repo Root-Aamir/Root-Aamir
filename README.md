@@ -60,3 +60,5 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <p align="center">
   <b>Aamir Akram — Full-Stack Developer | Cybersecurity | AI Automation</b>
 </p>
+
+<!-- profile achievement update -->
