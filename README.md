@@ -68,3 +68,6 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <!-- YOLO final try: merged without review -->
 
 <!-- no bot YOLO try -->
+
+## Status
+Actively maintained.
