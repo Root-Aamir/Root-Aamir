@@ -78,3 +78,5 @@ Added via pair session.
 Testing collaboration workflow.
 
 Verified via collaborative review.
+
+<!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
