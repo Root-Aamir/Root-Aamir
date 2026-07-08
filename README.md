@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/showcase-strip.svg" width="100%" alt="Aamir Akram showcase" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/3cc1849a-e29e-4493-bbe0-fb1feac723ca" />
 </p>
 
 <h1 align="center">Aamir Akram</h1>
@@ -14,115 +14,78 @@
 
 <p align="center">
   <a href="https://github.com/Root-Aamir?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View_All-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=38BDF8" />
+    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" />
   </a>
   <a href="https://apexzero.tech/">
-    <img src="https://img.shields.io/badge/ApexZero-Live_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827&color=EF4444" />
+    <img src="https://img.shields.io/badge/ApexZero-EA1D2C?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:aamirakram252003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827&color=8B5CF6" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" />
   </a>
 </p>
 
 <br/>
 
-<h2>What have I been up to recently?</h2>
+## What have I been up to recently?
 
-<p>
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
-</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>ApexZero</h3>
-      <p>Software, cybersecurity, automation, and digital product brand.</p>
-      <a href="https://apexzero.tech/">Visit Website</a>
-    </td>
-    <td width="50%">
-      <h3>AI Vulnerability Scanner</h3>
-      <p>AI-assisted security scanning concept for modern web projects.</p>
-      <a href="https://github.com/Root-Aamir/ai-vulnerability-scanner">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Omni Sentinel</h3>
-      <p>Security-focused project direction and automation research.</p>
-      <a href="https://github.com/Root-Aamir/omni-sentinel">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>AWS Portfolio</h3>
-      <p>Cloud portfolio project showing deployment and web presence.</p>
-      <a href="https://github.com/Root-Aamir/aamir-aws-portfolio">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Web Security Scanner</h3>
-      <p>Web security tooling for learning, testing, and automation.</p>
-      <a href="https://github.com/Root-Aamir/web-security-scanner">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>Subdomain Finder</h3>
-      <p>Reconnaissance and discovery tool for security workflows.</p>
-      <a href="https://github.com/Root-Aamir/subdomain-finder">View Repository</a>
-    </td>
-  </tr>
-</table>
+- [ApexZero](https://apexzero.tech/) — software, cybersecurity, automation, and digital product brand  
+- [AI Vulnerability Scanner](https://github.com/Root-Aamir/ai-vulnerability-scanner) — AI-assisted security scanning concept  
+- [Omni Sentinel](https://github.com/Root-Aamir/omni-sentinel) — security-focused project direction  
+- [Aamir AWS Portfolio](https://github.com/Root-Aamir/aamir-aws-portfolio) — cloud and portfolio project  
+- [Web Security Scanner](https://github.com/Root-Aamir/web-security-scanner) — web security tooling  
+- [Subdomain Finder](https://github.com/Root-Aamir/subdomain-finder) — reconnaissance and discovery tool  
 
 <br/>
 
-<h2>Tech I work with</h2>
+## Tech I work with
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=44CC11" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=EA1D2C" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=44CC11" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=EA1D2C" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br/>
 
-<h2>GitHub Activity</h2>
+## Current Focus
+
+- Full-stack web development with React, Next.js, Tailwind CSS and backend APIs  
+- Cybersecurity learning, OSINT workflows and web security tools  
+- Python automation, AI-assisted workflows and smart dashboards  
+- Trading technology using Python, MQL5 and MetaTrader 5  
+- Building ApexZero as a premium software and digital product brand  
+
+<br/>
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=EF4444&text_color=E5E7EB" width="49%" alt="Aamir Akram GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Root-Aamir&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=EF4444&currStreakLabel=38BDF8" width="49%" alt="Aamir Akram GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=EF4444" width="100%" alt="Aamir Akram GitHub activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=EA1D2C" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&theme=github_dark&hide_border=true&title_color=8B7CF6" height="165" />
 </p>
 
 <br/>
 
-<h2>Current Focus</h2>
+## Links
 
-<ul>
-  <li>Full-stack web development with React, Next.js, Tailwind CSS and backend APIs</li>
-  <li>Cybersecurity learning, OSINT workflows and web security tools</li>
-  <li>Python automation, AI-assisted workflows and smart dashboards</li>
-  <li>Trading technology using Python, MQL5 and MetaTrader 5</li>
-</ul>
-
-<br/>
-
-<h2>Links</h2>
-
-<ul>
-  <li>Repositories: <a href="https://github.com/Root-Aamir?tab=repositories">View all repositories</a></li>
-  <li>ApexZero: <a href="https://apexzero.tech/">ApexZero</a></li>
-  <li>Email: <a href="mailto:aamirakram252003@gmail.com">aamirakram252003@gmail.com</a></li>
-</ul>
+- Repositories: [View all repositories](https://github.com/Root-Aamir?tab=repositories)  
+- ApexZero: [apexzero.tech](https://apexzero.tech/)  
+- Email: [aamirakram252003@gmail.com](mailto:aamirakram252003@gmail.com)  
 
 <br/>
 
@@ -131,13 +94,12 @@ I am focused on building practical software projects, cybersecurity tools, autom
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Root-Aamir&style=for-the-badge&color=38bdf8" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" />
 </p>
 
-<br/>
-
-<h2>Status</h2>
-
-<p>
-Actively maintained.
-</p>
+<!-- profile achievement update -->
+<!-- pull shark second update -->
+<!-- YOLO final try: merged without review -->
+<!-- no bot YOLO try -->
+<!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
+<!-- pair collaboration update: pair-extra-20260708125938 -->
