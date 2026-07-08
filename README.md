@@ -71,3 +71,6 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 ## Status
 Actively maintained.
+
+## Notes
+Added via pair session.
