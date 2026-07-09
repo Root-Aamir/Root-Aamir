@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/3cc1849a-e29e-4493-bbe0-fb1feac723ca" />
+  <img src="./assets/showcase-strip.png" width="100%" alt="Aamir Akram ApexZero showcase banner" />
 </p>
 
 <h1 align="center">Aamir Akram</h1>
@@ -9,21 +9,21 @@
 </p>
 
 <p align="center">
-  <b>Building secure web platforms, automation tools, trading systems, and digital products under ApexZero.</b>
+  Building secure web platforms, automation tools, trading systems, and digital products under <b>ApexZero</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Root-Aamir?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Repositories" />
   </a>
   <a href="https://apexzero.tech/">
-    <img src="https://img.shields.io/badge/ApexZero-EA1D2C?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/ApexZero-EA1D2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ApexZero" />
   </a>
   <a href="mailto:aamirakram252003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
   </a>
   <a href="https://github.com/Root-Aamir">
-    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=8B7CF6" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=8B7CF6" alt="Status" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <tr>
 <td width="50%">
 
-### 🔴 ApexZero Brand
+### 🔴 ApexZero
 
 - Software platforms  
 - Cybersecurity learning  
@@ -80,18 +80,18 @@ I am focused on building practical software projects, cybersecurity tools, autom
 ## 🧰 Tech I work with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=44CC11" />
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=EA1D2C" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=44CC11" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=EA1D2C" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00BFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B7CF6" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=44CC11" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=EA1D2C" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=44CC11" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=EA1D2C" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <br/>
@@ -150,12 +150,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&amp;bg_color=0D1117&amp;color=00BFFF&amp;line=EA1D2C&amp;point=8B7CF6&amp;area=true&amp;hide_border=true&amp;custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00BFFF&amp;text_color=FFFFFF&amp;icon_color=EA1D2C&amp;cache_seconds=1800" width="49%" alt="Aamir Akram GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=8B7CF6&amp;text_color=FFFFFF&amp;cache_seconds=1800" width="49%" alt="Aamir Akram Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
 </p>
 
 <br/>
@@ -164,13 +159,13 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <p align="center">
   <a href="https://github.com/Root-Aamir?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="View Repositories" />
   </a>
   <a href="https://apexzero.tech/">
-    <img src="https://img.shields.io/badge/Visit%20ApexZero-EA1D2C?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20ApexZero-EA1D2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ApexZero" />
   </a>
   <a href="mailto:aamirakram252003@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CF6" />
+    <img src="https://img.shields.io/badge/Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CF6" alt="Contact Me" />
   </a>
 </p>
 
