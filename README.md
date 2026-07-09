@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="showcase-strip" src="https://github.com/user-attachments/assets/5b4989ff-5dd8-4168-9ff1-0b514ed82f6b" />
 ﻿<h1 align="center">Aamir Akram</h1>
 
 <p align="center">
