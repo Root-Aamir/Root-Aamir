@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="./assets/showcase-strip.png" width="100%" alt="Aamir Akram ApexZero showcase banner" />
-</p>
-
-<h1 align="center">Aamir Akram</h1>
+﻿<h1 align="center">Aamir Akram</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Cybersecurity Learner • AI Automation Builder</b>
+  <b>Full-Stack Developer â€¢ Cybersecurity Learner â€¢ AI Automation Builder</b>
 </p>
 
 <p align="center">
@@ -31,7 +27,7 @@
 
 ---
 
-## ⚡ What have I been up to recently?
+## âš¡ What have I been up to recently?
 
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
 
@@ -39,7 +35,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <tr>
 <td width="50%">
 
-### 🔴 ApexZero
+### ðŸ”´ ApexZero
 
 - Software platforms  
 - Cybersecurity learning  
@@ -50,7 +46,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 </td>
 <td width="50%">
 
-### 🔵 Current Direction
+### ðŸ”µ Current Direction
 
 - React / Next.js websites  
 - Python automation  
@@ -64,7 +60,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <br/>
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 | Project | Description |
 |---|---|
@@ -77,7 +73,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <br/>
 
-## 🧰 Tech I work with
+## ðŸ§° Tech I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React" />
@@ -96,13 +92,13 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <br/>
 
-## 🎯 Current Focus
+## ðŸŽ¯ Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Software Engineering
+### ðŸ’» Software Engineering
 
 - React, Next.js and Tailwind CSS  
 - Backend APIs and dashboards  
@@ -112,7 +108,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 </td>
 <td width="50%">
 
-### 🛡️ Cybersecurity + Automation
+### ðŸ›¡ï¸ Cybersecurity + Automation
 
 - OSINT workflows  
 - Web security tools  
@@ -124,7 +120,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <tr>
 <td width="50%">
 
-### 🤖 AI Workflows
+### ðŸ¤– AI Workflows
 
 - AI automation builders  
 - Smart productivity tools  
@@ -134,7 +130,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 </td>
 <td width="50%">
 
-### 📈 Trading Technology
+### ðŸ“ˆ Trading Technology
 
 - Python trading systems  
 - MQL5 / MetaTrader 5  
@@ -147,7 +143,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <br/>
 
-## 📊 GitHub Activity
+## ðŸ“Š GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
@@ -155,7 +151,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 
 <br/>
 
-## 🔗 Links
+## ðŸ”— Links
 
 <p align="center">
   <a href="https://github.com/Root-Aamir?tab=repositories">
@@ -174,11 +170,11 @@ I am focused on building practical software projects, cybersecurity tools, autom
 ---
 
 <p align="center">
-  <b>Aamir Akram — Full-Stack Developer | Cybersecurity | AI Automation</b>
+  <b>Aamir Akram â€” Full-Stack Developer | Cybersecurity | AI Automation</b>
 </p>
 
 <p align="center">
-  <i>Software • Security • Automation • Digital Systems</i>
+  <i>Software â€¢ Security â€¢ Automation â€¢ Digital Systems</i>
 </p>
 
 <!-- profile achievement update -->
@@ -187,3 +183,4 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <!-- no bot YOLO try -->
 <!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
 <!-- pair collaboration update: pair-extra-20260708125938 -->
+
