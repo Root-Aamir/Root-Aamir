@@ -1,5 +1,8 @@
-<img width="2172" height="724" alt="showcase-strip" src="https://github.com/user-attachments/assets/5b4989ff-5dd8-4168-9ff1-0b514ed82f6b" />
-﻿<h1 align="center">Aamir Akram</h1>
+<p align="center">
+  <img width="2172" height="724" alt="showcase-strip" src="https://github.com/user-attachments/assets/5b4989ff-5dd8-4168-9ff1-0b514ed82f6b" />
+</p>
+
+<h1 align="center">Aamir Akram</h1>
 
 <p align="center">
   <b>Full-Stack Developer • Cybersecurity Learner • AI Automation Builder</b>
@@ -19,13 +22,47 @@
   <a href="mailto:aamirakram252003@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
   </a>
+  <a href="https://github.com/Root-Aamir">
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=8B7CF6" alt="Status" />
+  </a>
 </p>
+
+<br/>
 
 ---
 
 ## ⚡ What have I been up to recently?
 
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 ApexZero
+
+- Software platforms  
+- Cybersecurity learning  
+- Automation systems  
+- Digital products  
+- Premium web experiences  
+
+</td>
+<td width="50%">
+
+### 🔵 Current Direction
+
+- React / Next.js websites  
+- Python automation  
+- Security tools  
+- AI workflows  
+- Trading technology  
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -37,6 +74,8 @@ I am focused on building practical software projects, cybersecurity tools, autom
 | [Aamir AWS Portfolio](https://github.com/Root-Aamir/aamir-aws-portfolio) | Cloud and portfolio project |
 | [Web Security Scanner](https://github.com/Root-Aamir/web-security-scanner) | Web security tooling |
 | [Subdomain Finder](https://github.com/Root-Aamir/subdomain-finder) | Reconnaissance and discovery tool |
+
+<br/>
 
 ## 🧰 Tech I work with
 
@@ -55,13 +94,66 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+<br/>
+
 ## 🎯 Current Focus
 
-- Full-stack web development with React, Next.js, Tailwind CSS and backend APIs
-- Cybersecurity learning, OSINT workflows and web security tools
-- Python automation, AI-assisted workflows and smart dashboards
-- Trading technology using Python, MQL5 and MetaTrader 5
-- Building ApexZero as a premium software and digital product brand
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Software Engineering
+
+- React, Next.js and Tailwind CSS  
+- Backend APIs and dashboards  
+- Premium website interfaces  
+- SaaS-style product pages  
+
+</td>
+<td width="50%">
+
+### 🛡️ Cybersecurity + Automation
+
+- OSINT workflows  
+- Web security tools  
+- Python automation  
+- AI-assisted dashboards  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Workflows
+
+- AI automation builders  
+- Smart productivity tools  
+- Prompt-based systems  
+- Security assistant concepts  
+
+</td>
+<td width="50%">
+
+### 📈 Trading Technology
+
+- Python trading systems  
+- MQL5 / MetaTrader 5  
+- Bot logic and dashboards  
+- Risk management tools  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
+</p>
+
+<br/>
 
 ## 🔗 Links
 
@@ -77,6 +169,8 @@ I am focused on building practical software projects, cybersecurity tools, autom
   </a>
 </p>
 
+<br/>
+
 ---
 
 <p align="center">
@@ -86,3 +180,10 @@ I am focused on building practical software projects, cybersecurity tools, autom
 <p align="center">
   <i>Software • Security • Automation • Digital Systems</i>
 </p>
+
+<!-- profile achievement update -->
+<!-- pull shark second update -->
+<!-- YOLO final try: merged without review -->
+<!-- no bot YOLO try -->
+<!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
+<!-- pair collaboration update: pair-extra-20260708125938 -->
