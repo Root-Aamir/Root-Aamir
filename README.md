@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Aamir Akram</h1>
 
 <p align="center">
-  <b>Full-Stack Developer â€¢ Cybersecurity Learner â€¢ AI Automation Builder</b>
+  <b>Full-Stack Developer • Cybersecurity Learner • AI Automation Builder</b>
 </p>
 
 <p align="center">
@@ -18,49 +18,15 @@
   <a href="mailto:aamirakram252003@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
   </a>
-  <a href="https://github.com/Root-Aamir">
-    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=8B7CF6" alt="Status" />
-  </a>
 </p>
-
-<br/>
 
 ---
 
-## âš¡ What have I been up to recently?
+## ⚡ What have I been up to recently?
 
 I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
 
-<table>
-<tr>
-<td width="50%">
-
-### ðŸ”´ ApexZero
-
-- Software platforms  
-- Cybersecurity learning  
-- Automation systems  
-- Digital products  
-- Premium web experiences  
-
-</td>
-<td width="50%">
-
-### ðŸ”µ Current Direction
-
-- React / Next.js websites  
-- Python automation  
-- Security tools  
-- AI workflows  
-- Trading technology  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
@@ -71,9 +37,7 @@ I am focused on building practical software projects, cybersecurity tools, autom
 | [Web Security Scanner](https://github.com/Root-Aamir/web-security-scanner) | Web security tooling |
 | [Subdomain Finder](https://github.com/Root-Aamir/subdomain-finder) | Reconnaissance and discovery tool |
 
-<br/>
-
-## ðŸ§° Tech I work with
+## 🧰 Tech I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React" />
@@ -90,68 +54,15 @@ I am focused on building practical software projects, cybersecurity tools, autom
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br/>
+## 🎯 Current Focus
 
-## ðŸŽ¯ Current Focus
+- Full-stack web development with React, Next.js, Tailwind CSS and backend APIs
+- Cybersecurity learning, OSINT workflows and web security tools
+- Python automation, AI-assisted workflows and smart dashboards
+- Trading technology using Python, MQL5 and MetaTrader 5
+- Building ApexZero as a premium software and digital product brand
 
-<table>
-<tr>
-<td width="50%">
-
-### ðŸ’» Software Engineering
-
-- React, Next.js and Tailwind CSS  
-- Backend APIs and dashboards  
-- Premium website interfaces  
-- SaaS-style product pages  
-
-</td>
-<td width="50%">
-
-### ðŸ›¡ï¸ Cybersecurity + Automation
-
-- OSINT workflows  
-- Web security tools  
-- Python automation  
-- AI-assisted dashboards  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ðŸ¤– AI Workflows
-
-- AI automation builders  
-- Smart productivity tools  
-- Prompt-based systems  
-- Security assistant concepts  
-
-</td>
-<td width="50%">
-
-### ðŸ“ˆ Trading Technology
-
-- Python trading systems  
-- MQL5 / MetaTrader 5  
-- Bot logic and dashboards  
-- Risk management tools  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ðŸ“Š GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
-</p>
-
-<br/>
-
-## ðŸ”— Links
+## 🔗 Links
 
 <p align="center">
   <a href="https://github.com/Root-Aamir?tab=repositories">
@@ -165,23 +76,12 @@ I am focused on building practical software projects, cybersecurity tools, autom
   </a>
 </p>
 
-<br/>
-
 ---
 
 <p align="center">
-  <b>Aamir Akram â€” Full-Stack Developer | Cybersecurity | AI Automation</b>
+  <b>Aamir Akram — Full-Stack Developer | Cybersecurity | AI Automation</b>
 </p>
 
 <p align="center">
-  <i>Software â€¢ Security â€¢ Automation â€¢ Digital Systems</i>
+  <i>Software • Security • Automation • Digital Systems</i>
 </p>
-
-<!-- profile achievement update -->
-<!-- pull shark second update -->
-<!-- YOLO final try: merged without review -->
-<!-- no bot YOLO try -->
-<!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
-<!-- pair collaboration update: pair-extra-20260708125938 -->
-
-
