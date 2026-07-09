@@ -150,12 +150,12 @@ I am focused on building practical software projects, cybersecurity tools, autom
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&amp;bg_color=0D1117&amp;color=00BFFF&amp;line=EA1D2C&amp;point=8B7CF6&amp;area=true&amp;hide_border=true&amp;custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=EA1D2C" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&theme=github_dark&hide_border=true&title_color=8B7CF6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00BFFF&amp;text_color=FFFFFF&amp;icon_color=EA1D2C&amp;cache_seconds=1800" width="49%" alt="Aamir Akram GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=8B7CF6&amp;text_color=FFFFFF&amp;cache_seconds=1800" width="49%" alt="Aamir Akram Top Languages" />
 </p>
 
 <br/>
